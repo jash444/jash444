@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jaswanth-portfolio.vercel.app/)**
+
 - 📫 How to reach me **geddamjaswanth4@gmail.com**
 
 - ⚡ Fun fact **I play spotrs and watch movies**
